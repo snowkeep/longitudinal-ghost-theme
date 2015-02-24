@@ -9,6 +9,7 @@ Currently we're at version 0.1 - This is my first Ghost Theme so if you find any
 ## Key Features
 
   - It's Free
+  - It's Responsive
   - Masonry Style Layout
   - Infinite Scrolling Content
   - Full Screen Background - Can be Changed
