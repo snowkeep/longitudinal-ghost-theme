@@ -1,4 +1,4 @@
-# Longitudinal Ghost Theme
+# Backcountry Ghost Theme
 
 Modified by [Snowkeep] from Longitudital by [HTML5andBeyond].
 
