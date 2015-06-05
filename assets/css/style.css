@@ -34,7 +34,7 @@ a {
   width: 100%;
 }
 #container a {
-  color: #ff4500;
+  color: #964636;
 }
 /***************************************************
 HEADER STYLING
@@ -42,12 +42,11 @@ HEADER STYLING
 #header {
   width: 100%;
   color: #ff4500;
-  background-color: rgba(0, 0, 0, 0.7);
 }
 #header .header-content {
   width: 70%;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -104,13 +103,17 @@ MAIN CONTENT STYLING
   max-width: 1200px;
   width: 100%;
   margin: 0 auto;
+  margin-bottom: 2em;
   padding: 1em;
+  background-color: rgba(192, 182, 180, 0.3);
+  border-radius: 7px;
 }
 #content .single-post {
-  background-color: #fff;
-  -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
-  -moz-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
-  box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.5);
+  background-color: rgba(181, 163, 147, 0.7);
+  -webkit-box-shadow: 0 0 5px 0 rgba(74, 15, 25, 0.7);
+  -moz-box-shadow: 0 0 5px 0 rgba(74, 15, 25, 0.7);
+  box-shadow: 0 0 5px 0 rgba(74, 15, 25, 0.7);
+  border-radius: 7px;
 }
 #content .single-post h1,
 #content .single-post h2,
@@ -124,7 +127,7 @@ MAIN CONTENT STYLING
   margin: 2px 0;
 }
 #content .single-post a {
-  color: #ff4500;
+  color: #964636;
 }
 #content .single-post .post-title {
   padding: 0 0 10px;
@@ -207,7 +210,7 @@ MAIN CONTENT STYLING
   padding: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(181, 163, 147, 0.9);
 }
 .single-post-view .post-header {
   text-align: center;
