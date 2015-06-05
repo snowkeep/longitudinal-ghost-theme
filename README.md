@@ -1,3 +1,7 @@
+# Backcountry Ghost Theme
+
+Modified from Logitudinal.  Change to the "Backcountry" branch.
+
 # Longitudinal Ghost Theme
 
 Created by [HTML5andBeyond].
