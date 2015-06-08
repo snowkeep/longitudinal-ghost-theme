@@ -41,7 +41,7 @@ HEADER STYLING
 ***************************************************/
 #header {
   width: 100%;
-  color: #ff4500;
+  color: #964636;
 }
 #header .header-content {
   width: 70%;
@@ -77,21 +77,21 @@ HEADER STYLING
   width: 200px;
   display: block;
   padding: 10px 0;
-  border: 1px solid #ff4500;
+  border: 1px solid #964636;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
   text-align: center;
-  color: #ff4500;
+  color: #964636;
   margin: 10px auto;
-  background-color: transparent;
+  background-color: rgba(192, 182, 180, 0.3);
   -webkit-transition: all 0.3s linear;
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
 }
 #header .subscribe:hover {
-  background-color: #ff4500;
+  background-color: #964636;
   color: #fff;
   border-color: #fff;
 }
@@ -134,7 +134,7 @@ MAIN CONTENT STYLING
   border-bottom: 1px solid #ddd;
 }
 #content .single-post.featured {
-  border: 2px solid #ff4500;
+  border: 2px solid #964636;
 }
 #content .single-column .b-by-b-item {
   width: 100%;
@@ -194,14 +194,14 @@ MAIN CONTENT STYLING
   width: 100px;
   padding: 5px;
   color: #fff;
-  background-color: #ff4500;
+  background-color: #964636;
   -webkit-transition: all 0.3s linear;
   -moz-transition: all 0.3s linear;
   -o-transition: all 0.3s linear;
   transition: all 0.3s linear;
 }
 .post-meta .share a span:hover {
-  color: #ff4500;
+  color: #964636;
   background-color: rgba(0, 0, 0, 0.7);
 }
 .single-post-view {
@@ -210,6 +210,10 @@ MAIN CONTENT STYLING
   padding: 10px;
   margin-top: 20px;
   margin-bottom: 20px;
+  -webkit-box-shadow: 0 0 5px 0 rgba(74, 15, 25, 0.7);
+  -moz-box-shadow: 0 0 5px 0 rgba(74, 15, 25, 0.7);
+  box-shadow: 0 0 5px 0 rgba(74, 15, 25, 0.7);
+  border-radius: 7px;
   background-color: rgba(181, 163, 147, 0.9);
 }
 .single-post-view .post-header {
@@ -221,7 +225,7 @@ MAIN CONTENT STYLING
 }
 .single-post-view .post-header .post-title {
   font-size: 2.5em;
-  color: #ff4500;
+  color: #964636;
 }
 #author-profile {
   width: 50%;
@@ -259,7 +263,7 @@ MAIN CONTENT STYLING
 }
 #author-profile .author-details-cont .author-details .author-title {
   font-size: 2.5em;
-  color: #ff4500;
+  color: #964636;
   margin: 5px 0;
 }
 #author-profile .author-details-cont .author-details .author-location {
